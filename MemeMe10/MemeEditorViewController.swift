@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  MemeEditorViewController.swift
 //  MemeMe10
 //
 //  Created by Paul Cristian Percca Julca on 5/14/20.
